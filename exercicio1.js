@@ -1,5 +1,5 @@
-document.write("<h1> aula 01 - exercicio 1</h1>");
 
+document.write("<h1> aula 01 - exercicio 1</h1>");
 var numero = prompt("digite um numero qualquer:");
 
 var quadrado = Number(numero) * Number(numero);
