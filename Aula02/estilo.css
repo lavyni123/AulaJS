@@ -1,0 +1,44 @@
+body
+{
+    margin : 0;
+    padding: 0;
+}
+
+h1
+{
+    background-color: darkred;
+    color : white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+
+form{
+    border: 1px solid pink;
+    margin: 20px auto;
+    width: 500px;
+    padding: 10px;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+input[type=button] {
+    padding: 10px;
+
+}
+
+.conteudo
+{
+    border: 1px solid pink;
+    margin: 20px auto;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 10px gray;
+    font-size: 20px;
+}
